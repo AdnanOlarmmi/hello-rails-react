@@ -12,7 +12,7 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-- [👥 Authors](#authors)
+- [👤 Author](#author)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -85,7 +85,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/karayamanemre/hello-rails-react.git
+  git clone https://github.com/adnanolarmmi/hello-rails-react.git
 ```
 
 ### Install
@@ -108,12 +108,12 @@ To run the project, execute the following command:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👤 Author <a name="author"></a>
 
-👤 **Emre Karayaman**
-
-- GitHub: [Emre Karayaman](https://github.com/karayamanemre)
-- LinkedIn: [Emre Karayaman](https://www.linkedin.com/in/emre-karayaman-a7b45b243/)
+👤 **Is-haq, Adnan Olamilekan**
+- GitHub: [@AdnanOlarmmi](https://github.com/adnanolarmmi)
+- Twitter: [@AdnanIshaqOla](https://twitter.com/@adnanishaqola)
+- LinkedIn: [Adnan (Olamilekan) Is-haq ](https://www.linkedin.com/in/adnan-is-haq-olamilekan/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
